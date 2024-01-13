@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
 
-kickstarter_data = pd.read_excel("Kickstarter-Project-Success-Prediction-and-Segmentation/Kickstarter.xlsx")
+kickstarter_data = pd.read_excel("Kickstarter.xlsx")
 
 ####Random Forest#########
 
